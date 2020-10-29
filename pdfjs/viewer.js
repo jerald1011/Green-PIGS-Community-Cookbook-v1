@@ -27,7 +27,7 @@
 
 'use strict';
 
-var DEFAULT_URL =  "Green PIGS Community Cookbook v1.pdf";
+var DEFAULT_URL =  "ITCPH Cook Book.pdf";
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
